@@ -1,0 +1,34 @@
+/****************************      Home       *****************************************/
+.heading{
+    font-family: "Courier New" , serif;
+    text-align: center;
+    font-weight:400;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 17px;
+    font-weight: 200;
+}
+
+.col-md-4{
+    padding-left: 100px;
+}
+
+.col-md-4 h1{
+    font-weight:700;
+    font-family:"Arial Black" , serif;
+}
+
+.col-md-4 p{
+    font-size:17px;
+}
+
+footer p{
+    text-align:right;
+    padding-right:100px;
+}
+/*****************************    ABOUT     **********************************************/
+
+
+
